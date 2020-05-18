@@ -2139,7 +2139,7 @@ var app = (function () {
 						'<div class="s1"></div><div class="s2 svelte-1no0zd6"></div><div class="s3 svelte-1no0zd6"></div><div class="s4 svelte-1no0zd6"></div><div class="theme-name svelte-1no0zd6"></div><div class="tip svelte-1no0zd6">theme switcher</div>'),
 					(s = y("div")),
 					(s.innerHTML =
-						'<div class="app svelte-1no0zd6">cybertype</div><div class="info svelte-1no0zd6"><div class="app svelte-1no0zd6"><div class="version"> V.1.0</div></div><div class="creator"><p class="svelte-1no0zd6"> Designed by</p><a href="https://twitter.com/Manan__Tank" target="black" class="svelte-1no0zd6"> Manan Tank</a></div></div>'),
+						'<div class="app svelte-1no0zd6">cybertype</div><div class="info svelte-1no0zd6"><div class="app svelte-1no0zd6"><div class="version"> V.1.0</div></div><div class="creator"><p class="svelte-1no0zd6"> Designed by</p><a href="https://riddhiwhitehat.github.io/Pro-WhiteHatJr-Silicon-Valley/" target="black" class="svelte-1no0zd6">Riddhi Yadav</a></div></div>'),
 					$(n, "class", "reset svelte-1no0zd6"),
 					$(r, "class", "theme-switch svelte-1no0zd6"),
 					$(s, "class", "cybertype svelte-1no0zd6");
